@@ -1,2 +1,2 @@
-# mastermind
+# Mastermind
 Mastermind game in c
