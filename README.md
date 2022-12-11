@@ -1,2 +1,2 @@
 # Mastermind
-Mastermind game in c
+Mastermind game in cpp with SFML (only audio)
